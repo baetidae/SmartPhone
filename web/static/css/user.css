@@ -1,0 +1,15 @@
+/*关于user.html的css设置*/
+.container{
+    text-align: center;
+}
+.module{
+    width: 500px;
+    height: 500px;
+    background-color: skyblue !important;
+    border: 1px solid black;
+    margin: 0 auto;
+    display: none;
+}
+.sectionActive{
+    display: block !important;
+}

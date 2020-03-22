@@ -1,0 +1,20 @@
+/*关于标题header和表尾footer的css设置*/
+.header{
+	background-color: green;
+	border: red;
+}
+.header>li:nth-child(-n+2){
+	float: left;
+}
+.header>li:nth-child(n+3){
+	float: right;
+}
+.header>li:nth-child(n+3):hover{
+	cursor: pointer;
+}
+.aboutLanguage{
+	color: white;
+}
+.aboutLanguage>li:nth-child(n+2){
+	display: none;
+}
