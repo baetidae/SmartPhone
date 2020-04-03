@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Plus button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="143.544416%" id="radialGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#6C3FFF" offset="26.4768017%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main" transform="translate(-703.000000, -4922.000000)" fill="url(#radialGradient-1)">
+            <g id="身临其境" transform="translate(-50.000000, 3984.000000)">
+                <g id="Content">
+                    <g id="Learn-more" transform="translate(637.000000, 901.000000)">
+                        <path d="M133,37 C142.388841,37 150,44.6111593 150,54 C150,63.3888407 142.388841,71 133,71 C123.611159,71 116,63.3888407 116,54 C116,44.6111593 123.611159,37 133,37 Z M133.75,47 L132.25,47 L132.25,53.25 L126,53.25 L126,54.75 L132.25,54.75 L132.25,61 L133.75,61 L133.75,54.75 L140,54.75 L140,53.25 L133.75,53.25 L133.75,47 Z" id="Plus-button"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

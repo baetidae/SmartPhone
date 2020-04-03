@@ -1,0 +1,11 @@
+
+#preview {
+    width: 100vw;
+    text-align: center;
+    padding-bottom: 100px;
+}
+#preview-coverflow .cover {
+    cursor: pointer;
+    width: 320px;
+    height: 240px;
+}

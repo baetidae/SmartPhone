@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="47px" viewBox="0 0 202 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Play Btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="464.448171%" gradientTransform="translate(0.000000,0.000000),scale(0.225000,1.000000),rotate(12.560029),translate(-0.000000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#6C3FFF" offset="26.4768017%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main" transform="translate(-619.000000, -556.000000)">
+            <g id="Hero" transform="translate(-265.000000, -161.000000)">
+                <g id="album-info" transform="translate(786.000000, 452.000000)">
+                    <g id="Play-Btn" transform="translate(99.000000, 266.000000)">
+                        <rect id="Rectangle-40" stroke="url(#radialGradient-1)" stroke-width="2" x="0" y="0" width="200" height="45" rx="8"></rect>
+                        <text id="了解更多" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" letter-spacing="2" fill="#FFFFFF">
+                            <tspan x="60" y="29">了解更多</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
