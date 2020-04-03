@@ -1,1 +1,575 @@
-/*关于index.html的css设置*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    border: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html {
+    font-family: Helvetica;
+    font-size: 67.5%
+}
+
+/* 第一个section start */
+
+.section:first-of-type {
+    background-image: url(../image/album-art.png);
+}
+
+.header-left>img {
+    position: absolute;
+}
+
+/* .language {
+    position: absolute;
+    background-color: aquamarine;
+}
+.language li {
+    float: left;
+    color: #ffffff;
+    height: 4rem;
+    line-height: 4rem;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+} */
+.user-logo {
+    width: 4rem;
+    height: 4rem;
+    top: 7vh;
+    left: 6vw;
+    transition: all .3s ease;
+}
+
+.phone-logo {
+    width: 4rem;
+    height: 4rem;
+    top: 21.5vh;
+    left: 5.5vw;
+    transition: all .3s ease;
+}
+
+.earth-logo {
+    width: 3.9rem;
+    height: 3.9rem;
+    top: 13.5vh;
+    left: 10.6vw;
+    transition: all .3s ease;
+}
+
+.user-logo:hover {
+    width: 4.5rem;
+    height: 4.5rem;
+    cursor: pointer;
+}
+
+.phone-logo:hover {
+    width: 4.5rem;
+    height: 4.5rem;
+    cursor: pointer;
+}
+
+.earth-logo:hover {
+    width: 4.5rem;
+    height: 4.5rem;
+    cursor: pointer;
+}
+
+.header-content {
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content-title {
+    display: flex;
+    align-items: center;
+}
+
+.title-logo {
+    width: 4.8rem;
+    height: 4.8rem;
+}
+
+.title-letter {
+    width: 13.7rem;
+    height: 3.8rem;
+    font-size: 3.2rem;
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 1);
+    line-height: 3.8rem;
+}
+
+.full-screen {
+    height: 1.9rem;
+    font-size: 1.6rem;
+    color: rgba(255, 255, 255, 1);
+    line-height: 1.9rem;
+    letter-spacing: .4rem;
+    text-indent: .4rem;
+}
+
+.iphone {
+    height: 4.8rem;
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 1);
+    line-height: 4.8rem;
+    letter-spacing: 6.0rem;
+    text-indent: 6.0rem;
+    /*使用首行缩进，缩进2em,正好抵消之前多的2em*/
+}
+
+.learn-more {
+    width: 20rem;
+    height: 4.5rem;
+    background-image: url(../image/PlayBtn.svg);
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+
+/* 第一个section end  */
+
+
+/* 第二页css  start*/
+.video-page {
+    display: flex;
+}
+
+.video-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.video-title {
+    /* width: 607px;
+    height: 38px; */
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    line-height: 3.7rem;
+}
+
+.video-info {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #ffffff;
+    line-height: 2.4rem;
+    color: white;
+}
+
+.video-play {
+    width: 20rem;
+    height: 5rem;
+    border: transparent;
+    background: linear-gradient(135deg, rgba(48, 35, 174, 1) 0%, rgba(108, 63, 255, 1) 26%, rgba(200, 109, 215, 1) 100%);
+    border-radius: 9.9rem;
+    cursor: pointer;
+}
+
+.video-play>a {
+    width: 11.2rem;
+    height: 2.8rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    line-height: 2.8rem;
+    letter-spacing: .1rem;
+
+}
+
+.video-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-img {
+    position: relative;
+    right: 1vw;
+}
+
+/* 第三页 css */
+#fullpage>.section:nth-child(3) {
+    background-image: url("../image/Bitmap.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.big-screen {
+    display: flex;
+}
+
+.phone-module {
+    position: relative;
+    width: 25vw;
+    height: 95vh;
+}
+
+.phone-module>img {
+    position: absolute;
+    width: 318.6px;
+    height: 653.4px;
+    left: -100%;
+    top: 51%;
+    transform: translate(-50%, -50%);
+}
+
+.screen-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.screen-info>p {
+    color: #ffffff;
+
+}
+
+.screen-title {
+    height: 3.7rem;
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    line-height: 3.7rem;
+}
+
+.screen-detail {
+    width: 39.1rem;
+    height: 17.5rem;
+    font-size: 1.8rem;
+    font-weight: 100;
+    color: rgba(255, 255, 255, 1);
+    line-height: 3.5rem;
+    margin-top: 10vh;
+}
+
+.appstore {
+    width: 146px;
+    height: 43.5px;
+    margin-top: 10vh;
+}
+
+/* 第四个section start */
+.color-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-title {
+    width: 10.4rem;
+    height: 2.9rem;
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    line-height: 2.9rem;
+    margin-top: 10vh;
+
+}
+
+.color-info {
+    width: 40.8rem;
+    height: 5rem;
+    font-size: 1.8rem;
+    font-weight: 100;
+    color: rgba(255, 255, 255, 1);
+    line-height: 2.5rem;
+    text-align: center;
+}
+
+.color-nav {
+    margin-top: 5vh;
+}
+
+.color-nav>ul>li {
+    float: left;
+    color: #ffffff;
+    list-style: none;
+    text-align: center;
+    margin: 0 6vw;
+}
+
+.nav-img {
+    width: 247px;
+    height: 247px;
+    opacity: 0;
+}
+
+.nav-eng {
+    height: 3.8rem;
+    font-size: 3.3rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    line-height: 3.7rem;
+}
+
+.nav-ch {
+    height: 2.9rem;
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 1);
+    line-height: 2.9rem;
+    letter-spacing: .1rem;
+}
+
+.nav-content {
+    height: 8.6rem;
+    font-size: 1.1rem;
+    font-weight: normal;
+    color: #4F5362;
+    line-height: 2.2rem;
+}
+
+/* 第四个section end */
+
+/* 第五页section start */
+
+.voice-page {
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.voice-title {
+    height: 3.7rem;
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    line-height: 3.7rem;
+}
+
+.voice-info {
+    /* width:286px; */
+    height: 5.6rem;
+    font-size: 5rem;
+    color: rgba(255, 255, 255, 0.99);
+    line-height: 6.2rem;
+}
+
+.voice-screen {
+    width: 774px;
+    height: 378px;
+}
+
+.voice-nav {
+    margin-top: 2vh;
+}
+
+.voice-nav>li {
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 13vh;
+    color: #ffffff;
+    list-style: none;
+    text-align: center;
+}
+
+.voice-nav li p {
+    width: 16.4rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgba(204, 204, 204, 1);
+    line-height: 2rem;
+}
+
+.voice-more {
+    height: 2.2rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: rgba(87, 59, 218, 1);
+    line-height: 2.2rem;
+}
+
+.voice-btn {
+    cursor: pointer;
+}
+
+/* 第五页section end */
+
+/* 第六页section start */
+
+.music-page {
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#preview {
+    margin-top: 1vh;
+    width: 100vw;
+    text-align: center;
+}
+
+#preview-coverflow .cover {
+    cursor: pointer;
+    width: 320px;
+    height: 240px;
+}
+
+.music-title {
+    font-size: 2.6rem;
+    font-weight: 600;
+}
+
+.music-desTitle {
+    font-size: 2.6rem;
+    font-weight: 500;
+    opacity: .5;
+    margin-top: 2vh;
+}
+
+.music-detail {
+    font-size: 1.4rem;
+    font-weight: 400;
+    opacity: .4;
+    margin-top: 2vh;
+}
+
+.buynow-btn {
+    margin-top: 3vh;
+    width: 15rem;
+    height: 3.3rem;
+    background: linear-gradient(135deg, rgba(48, 35, 174, 1) 0%, rgba(108, 63, 255, 1) 26%, rgba(200, 109, 215, 1) 100%);
+    border-radius: 4px;
+}
+
+.buynow-btn>a {
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: .1rem;
+}
+
+/* 第六页section end */
+
+
+/* footer start */
+.footer {
+    flex-direction: column;
+}
+
+.footer-content {
+    display: flex;
+}
+
+.contenter-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-itemColor {
+    width: 15.8rem;
+    height: .3rem;
+}
+
+.footer-item:nth-of-type(1)>.footer-itemColor {
+    background: linear-gradient(90deg, rgba(181, 235, 69, 1) 0%, rgba(126, 211, 33, 1) 100%);
+}
+
+.footer-item:nth-of-type(2)>.footer-itemColor {
+    background: linear-gradient(90deg, rgba(128, 195, 243, 1) 0%, rgba(74, 144, 226, 1) 100%);
+}
+
+.footer-item:nth-of-type(3)>.footer-itemColor {
+    background: linear-gradient(90deg, rgba(251, 210, 73, 1) 0%, rgba(245, 166, 35, 1) 100%);
+}
+
+.footer-item:nth-of-type(4)>.footer-itemColor {
+    background: linear-gradient(90deg, rgba(251, 73, 156, 1) 0%, rgba(245, 35, 98, 1) 100%);
+}
+
+.footer-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-title>img {
+    width: 4.8rem;
+    height: 4.8rem;
+}
+
+.footer-title>p {
+    font-size: 3.2rem;
+    color: rgba(255, 255, 255, 1);
+}
+
+.content-left>p {
+    font-size: 1.4rem;
+    color: #AFBDE2;
+    text-align: center;
+}
+
+.footer-item {
+    margin-bottom: 5vh;
+    margin-left: 4vw;
+}
+
+.footer-item>p {
+    font-size: 1.4rem;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 5vh;
+}
+
+.footer-item ul li {
+    margin-top: 3vh;
+}
+
+.footer-item a {
+    color: #7C93AD;
+}
+
+.footer-item a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.content-right {
+    display: flex;
+}
+
+
+.footer-link {
+    display: static;
+    color: #7C93AD;
+    text-align: center;
+}
+
+.footer-link p {
+    margin-top: 1vh;
+}
+
+/* footer end */

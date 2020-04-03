@@ -6,6 +6,7 @@ import java.util.Map;
 public class ResponseMessage {
     private String errorCode;
     private String errorMsg;
+
     private Map<String, Object> objectMap = new HashMap<>();
 
     public String getErrorCode() {

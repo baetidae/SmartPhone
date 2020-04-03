@@ -7,118 +7,111 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f9af471-bf99-4c36-999a-998f20ab3569" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e1f5ee84-23f2-4cd8-9141-68caff4c227a.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/dao/AdminMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/dao/OrderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/AdminExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/AdminExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/AdminExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/AdminExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/utils/CodeGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/utils/ResponseMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/AdminMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/springMVC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/c3p0-0.9.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/jackson-core-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/jackson-databind-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/mybatis-generator-core-1.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-aop-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-beans-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-context-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-core-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-expression-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-jcl-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-jdbc-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-orm-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-tx-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-web-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/lib/spring-webmvc-5.2.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/sakura.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/jquery.fullPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/user.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/earthLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/earthLogoBlack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/phoneLogoBlack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/phoneLogoWhite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sakuraBlack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sakuraWhite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sukuraLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sukuraLogoBlack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/userLogoBlack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/userLogoWhite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/jquery.fullPage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/dao/AdminMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/dao/OrderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/AdminExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/AdminExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/AdminExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/AdminExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/utils/CodeGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edu/utils/ResponseMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AdminMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/springMVC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/edu/test/DaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/edu/test/ServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/edu/utils/HttpServletRequestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/css/purchase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/pages/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/pages/purchase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SmartPhone_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SmartPhone_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e1f5ee84-23f2-4cd8-9141-68caff4c227a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e1f5ee84-23f2-4cd8-9141-68caff4c227a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/OrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/entry/UserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/utils/ResponseMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/com/edu/utils/ResponseMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/OrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/OrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/classes/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/jquery.fullPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/css/jquery.fullPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/earthLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/earthLogoBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/phoneLogoBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/phoneLogoWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sakuraBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sakuraWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sukuraLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/sukuraLogoBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/userLogoBlack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/images/userLogoWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/jquery.fullPage.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/jquery.fullPage.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/js/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SmartPhone_war_exploded/static/pages/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/dao/AdminMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/dao/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/entry/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/entry/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/entry/AdminExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/entry/AdminExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/entry/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/entry/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/entry/OrderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/entry/OrderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/entry/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/entry/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/entry/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/entry/UserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/utils/ResponseMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/utils/ResponseMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/AdminMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/edu/test/DaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/edu/test/DaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/edu/test/ServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/edu/test/ServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/OrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/entry/UserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/utils/ResponseMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/utils/ResponseMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/edu/test/DaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/edu/test/ServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/jquery.fullPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/css/jquery.fullPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/earthLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/earthLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/earthLogoBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/earthLogoBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/phoneLogoBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/phoneLogoBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/phoneLogoWhite.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/phoneLogoWhite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/sakuraBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/sakuraBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/sakuraWhite.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/sakuraWhite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/sukuraLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/sukuraLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/sukuraLogoBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/sukuraLogoBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/userLogoBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/userLogoBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/images/userLogoWhite.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/image/userLogoWhite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/jquery.fullPage.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/jquerySession.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/js/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/pages/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/pages/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/pages/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/pages/user.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -155,6 +148,20 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="graduationProject: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="graduationProject: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="order: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="graduationProject: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -163,43 +170,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/static/pages/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/utils/CodeGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/sakura.ico">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/web/static/css/purchase.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="45">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -211,9 +186,9 @@
       <list>
         <option value="package.json" />
         <option value="Class" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -233,31 +208,44 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/package.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/springMVC.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/edu/test/DaoTest.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/edu/test/WebTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/edu/entry/UserExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/edu/entry/User.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/edu/test/ServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/edu/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/edu/service/UserService.java" />
         <option value="$PROJECT_DIR$/web/user.html" />
         <option value="$PROJECT_DIR$/web/static/pages/product.html" />
-        <option value="$PROJECT_DIR$/web/static/js/user.js" />
         <option value="$PROJECT_DIR$/web/static/css/index.css" />
-        <option value="$PROJECT_DIR$/web/static/pages/register.html" />
         <option value="$PROJECT_DIR$/web/static/css/register.css" />
-        <option value="$PROJECT_DIR$/web/static/js/register.js" />
-        <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/static/css/common.css" />
-        <option value="$PROJECT_DIR$/web/static/js/index.js" />
         <option value="$PROJECT_DIR$/web/static/css/user.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/controller/CodeController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/new_words.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context-kaptcha.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/utils/HttpServletRequestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/utils/CodeUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/controller/KaptchaController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/controller/CaptchaController.java" />
+        <option value="$PROJECT_DIR$/web/static/pages/register.html" />
+        <option value="$PROJECT_DIR$/web/static/js/register.js" />
         <option value="$PROJECT_DIR$/web/static/pages/user.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/edu/test/ServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/edu/test/DaoTest.java" />
+        <option value="$PROJECT_DIR$/web/static/js/jquerySession.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/utils/ResponseMessage.java" />
+        <option value="$PROJECT_DIR$/web/static/js/user.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/entry/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/springMVC.xml" />
+        <option value="$PROJECT_DIR$/web/static/pages/homepage.html" />
+        <option value="$PROJECT_DIR$/web/static/js/homepage.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edu/service/UserService.java" />
+        <option value="$PROJECT_DIR$/web/static/js/index.js" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/static/pages/purchase.html" />
+        <option value="$PROJECT_DIR$/web/static/css/purchase.css" />
       </list>
     </option>
   </component>
@@ -299,19 +287,20 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+    <option name="x" value="6" />
     <option name="y" value="23" />
     <option name="width" value="1268" />
     <option name="height" value="716" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,10 +308,102 @@
               <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
               <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="UserController" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="UserService" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartPhone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartPhone" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,10 +424,10 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20510095" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -373,6 +454,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.43">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.utils.CodeGenerator" />
+      <module name="SmartPhone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DaoTest.testSelectByExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SmartPhone" />
       <extension name="coverage">
@@ -400,22 +494,6 @@
       <option name="PACKAGE_NAME" value="com.edu.test" />
       <option name="MAIN_CLASS_NAME" value="com.edu.test.DaoTest" />
       <option name="METHOD_NAME" value="testSelectById" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DaoTest.testUserInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SmartPhone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.edu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.edu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.edu.test.DaoTest" />
-      <option name="METHOD_NAME" value="testUserInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -526,20 +604,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CodeGenerator" />
       <item itemvalue="JUnit.DaoTest.testSelectByExample" />
       <item itemvalue="JUnit.DaoTest.testSelectById" />
-      <item itemvalue="JUnit.DaoTest.testUserInsert" />
       <item itemvalue="JUnit.WebTest.TestLogin" />
       <item itemvalue="JUnit.ServiceTest.testFindUserWithTelAndPassword" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.43" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodeGenerator" />
         <item itemvalue="JUnit.ServiceTest.testFindUserWithTelAndPassword" />
         <item itemvalue="JUnit.DaoTest.testSelectByExample" />
         <item itemvalue="JUnit.WebTest.TestLogin" />
         <item itemvalue="JUnit.DaoTest.testSelectById" />
-        <item itemvalue="JUnit.DaoTest.testUserInsert" />
       </list>
     </recent_temporary>
   </component>
@@ -563,6 +641,25 @@
       <workItem from="1584776023152" duration="6468000" />
       <workItem from="1584858530773" duration="781000" />
       <workItem from="1584866377075" duration="276000" />
+      <workItem from="1584870254113" duration="283000" />
+      <workItem from="1584877668504" duration="76000" />
+      <workItem from="1584958287114" duration="2272000" />
+      <workItem from="1584961311562" duration="3056000" />
+      <workItem from="1584965172195" duration="4584000" />
+      <workItem from="1585033115589" duration="268000" />
+      <workItem from="1585034502775" duration="665000" />
+      <workItem from="1585140625921" duration="293000" />
+      <workItem from="1585220960566" duration="1299000" />
+      <workItem from="1585485458876" duration="3671000" />
+      <workItem from="1585554835633" duration="6360000" />
+      <workItem from="1585563094831" duration="435000" />
+      <workItem from="1585565098482" duration="250000" />
+      <workItem from="1585566643179" duration="483000" />
+      <workItem from="1585572060904" duration="19000" />
+      <workItem from="1585805256347" duration="9668000" />
+      <workItem from="1585819437818" duration="363000" />
+      <workItem from="1585824443634" duration="8717000" />
+      <workItem from="1585887466891" duration="4443000" />
     </task>
     <task id="LOCAL-00001" summary="登陆功能完成">
       <created>1584866659346</created>
@@ -571,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584866659347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="登陆功能完成">
+      <created>1585891960185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585891960185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -607,7 +711,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31035000" />
+    <option name="totallyTimeSpent" value="78837000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -619,20 +723,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1268" height="716" extended-state="0" />
+    <frame x="6" y="23" width="1268" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.89767444" visible="true" weight="0.2917981" />
-      <window_info id="Structure" order="1" sideWeight="0.10926366" side_tool="true" weight="0.21890146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.475969" visible="true" weight="0.22712934" />
+      <window_info id="Structure" order="1" sideWeight="0.524031" side_tool="true" weight="0.2988959" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
-      <window_info id="Web" order="7" sideWeight="0.10232558" side_tool="true" visible="true" weight="0.2917981" />
+      <window_info id="Web" order="7" sideWeight="0.12357724" side_tool="true" weight="0.19242902" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.093023255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83044165" weight="0.046511628" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.58513933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -642,8 +746,8 @@
       <window_info anchor="bottom" id="Database Console" order="9" weight="0.3296" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3296" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.7072" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.34520122" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.16955836" side_tool="true" weight="0.87906975" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.34418604" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3296" />
       <window_info anchor="bottom" id="Database Changes" order="15" weight="0.3296" />
       <window_info anchor="bottom" id="Version Control" order="16" />
@@ -653,22 +757,22 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.329653" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.06940063" />
+      <window_info anchor="right" id="Database" order="6" weight="0.22318612" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.89073634" visible="true" weight="0.23028392" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.87642276" weight="0.119873814" />
       <window_info id="Structure" order="1" sideWeight="0.10926366" side_tool="true" weight="0.21890146" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.12357724" side_tool="true" weight="0.19242902" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.11627907" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83044165" weight="0.26666668" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.58513933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -678,8 +782,8 @@
       <window_info anchor="bottom" id="Database Console" order="9" weight="0.3296" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3296" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.7072" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.34520122" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.16955836" side_tool="true" weight="0.87906975" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.34418604" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3296" />
       <window_info anchor="bottom" id="Database Changes" order="15" weight="0.3296" />
       <window_info anchor="bottom" id="Version Control" order="16" />
@@ -689,7 +793,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.329653" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.06940063" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.22160883" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
@@ -701,201 +805,12 @@
     <MESSAGE value="登陆功能完成" />
     <option name="LAST_COMMIT_MESSAGE" value="登陆功能完成" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/main/java/com/edu/entry/UserExample.java</url>
-          <line>156</line>
-          <properties field="criteria" class="com.edu.entry.UserExample.GeneratedCriteria" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Desktop/GraduationProject/src/test/java/com/edu/test/DaoTest.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/new_words.txt" />
+    <entry file="jar:///Library/apache-maven-3.6.1/repository/com/github/penggle/kaptcha/2.3.2/kaptcha-2.3.2.jar!/com/google/code/kaptcha/servlet/KaptchaServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="20" lean-forward="true" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/Admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/utils/ResponseMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/edu/test/WebTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="203" column="33" selection-start-line="203" selection-start-column="33" selection-end-line="203" selection-end-column="33" />
-          <folding>
-            <element signature="e#4350#4351#0" expanded="true" />
-            <element signature="e#4376#4377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e1f5ee84-23f2-4cd8-9141-68caff4c227a/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://e1f5ee84-23f2-4cd8-9141-68caff4c227a/schema/graduationProject/table/user" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/UserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/edu/test/ServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/edu/test/DaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/springMVC.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/static/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/jquery-1.8.3.min.js" />
-    <entry file="file://$PROJECT_DIR$/generator.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="7810" column="52" selection-start-line="7810" selection-start-column="52" selection-end-line="7810" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/jquery.fullPage.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/css/jquery.fullPage.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/css/register.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/sakuraLogo.png" />
-    <entry file="file://$PROJECT_DIR$/web/static/images/shoppingBag.png" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2038">
-          <caret line="145" column="38" selection-start-line="145" selection-start-column="38" selection-end-line="145" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/userLogoBlack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="90">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -906,69 +821,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/sakuraBlack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/sukuraLogoBlack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/earthLogoBlack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/phoneLogoBlack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/phoneLogoWhite.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/sukuraLogo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/sakuraWhite.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/images/earthLogo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/index.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/OrderExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="131">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding>
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/pages/user.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context-kaptcha.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/controller/KaptchaController.java" />
+    <entry file="file://$PROJECT_DIR$/generator.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="493">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/user.js">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        <state relative-caret-position="400">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/css/user.css">
+    <entry file="jar:///Library/apache-maven-3.6.1/repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/css/common.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/controller/CaptchaController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/utils/CodeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/utils/HttpServletRequestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="600">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/pages/register.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/dao/OrderMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/jquery.fullPage.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/dao/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -979,20 +914,246 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/edu/test/DaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/edu/test/ServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/edu/test/WebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/pages/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/pages/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/jquerySession.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="11" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/apache-maven-3.6.1/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/image/earthLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="305" column="29" selection-start-line="305" selection-start-column="29" selection-end-line="305" selection-end-column="29" />
+          <folding>
+            <element signature="e#2406#2407#0" expanded="true" />
+            <element signature="e#2431#2432#0" expanded="true" />
+            <element signature="e#2708#2709#0" expanded="true" />
+            <element signature="e#2736#2737#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3056#3057#0" expanded="true" />
+            <element signature="e#3364#3365#0" expanded="true" />
+            <element signature="e#3437#3438#0" expanded="true" />
+            <element signature="e#3724#3725#0" expanded="true" />
+            <element signature="e#3755#3756#0" expanded="true" />
+            <element signature="e#4061#4062#0" expanded="true" />
+            <element signature="e#4134#4135#0" expanded="true" />
+            <element signature="e#4415#4416#0" expanded="true" />
+            <element signature="e#4444#4445#0" expanded="true" />
+            <element signature="e#4740#4741#0" expanded="true" />
+            <element signature="e#4807#4808#0" expanded="true" />
+            <element signature="e#5079#5080#0" expanded="true" />
+            <element signature="e#5105#5106#0" expanded="true" />
+            <element signature="e#5386#5387#0" expanded="true" />
+            <element signature="e#5444#5445#0" expanded="true" />
+            <element signature="e#5728#5729#0" expanded="true" />
+            <element signature="e#5758#5759#0" expanded="true" />
+            <element signature="e#6059#6060#0" expanded="true" />
+            <element signature="e#6129#6130#0" expanded="true" />
+            <element signature="e#6414#6415#0" expanded="true" />
+            <element signature="e#6445#6446#0" expanded="true" />
+            <element signature="e#6749#6750#0" expanded="true" />
+            <element signature="e#6789#6790#0" expanded="true" />
+            <element signature="e#7070#7071#0" expanded="true" />
+            <element signature="e#7099#7100#0" expanded="true" />
+            <element signature="e#7395#7396#0" expanded="true" />
+            <element signature="e#7462#7463#0" expanded="true" />
+            <element signature="e#7772#7773#0" expanded="true" />
+            <element signature="e#7810#7811#0" expanded="true" />
+            <element signature="e#8335#8336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/entry/UserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12270">
+          <caret line="841" column="32" selection-start-line="841" selection-start-column="24" selection-end-line="841" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e1f5ee84-23f2-4cd8-9141-68caff4c227a/schema/graduationProject/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="964ae240-fa04-4fdd-8b0c-eca801b3cbfe">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/sakura.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springMVC.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="175">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="460">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edu/utils/ResponseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/homepage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/pages/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/pages/purchase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/css/purchase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1007,6 +1168,7 @@
             <option name="proportions">
               <list>
                 <option value="0.20510095" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1049,12 +1211,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SmartPhone</last-edited>
+          <last-edited>Spring|SmartPhone</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.20510095" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

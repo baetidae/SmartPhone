@@ -6,8 +6,12 @@ import com.edu.entry.User;
 import com.edu.entry.UserExample;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.List;
+import java.util.UUID;
 
 @Service
 public class UserService {
@@ -15,7 +19,7 @@ public class UserService {
     @Autowired
     private UserMapper userMapper;
 
-    public boolean findUserWithTelAndPassword(User user){
+    public List<User> findUserWithTelAndPassword(User user){
 
         //创建一个条件对象
        UserExample userExample = new UserExample();
@@ -25,9 +29,13 @@ public class UserService {
         //查询数据
         List<User> userList = userMapper.selectByExample(userExample);
         //判断返回结果
-        return userList != null && userList.size() == 1;
+        //return userList != null && userList.size() == 1;
+        return userList;
     }
 
+
+
+    //注册用户
     public String register(User user){
         //验证账号是否存在
         UserExample userExample = new UserExample();
@@ -42,5 +50,6 @@ public class UserService {
         userMapper.insertSelective(user);
         return "注册成功";
     }
+
 
 }

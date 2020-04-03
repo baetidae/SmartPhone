@@ -3,41 +3,42 @@
     <head>
         <meta charset="UTF-8">
         <!-- 引入css -->
-        <link rel="stylesheet" type="text/css" href="../css/reset.css">
+<!--        <link rel="stylesheet" type="text/css" href="../css/reset.css">-->
         <link rel="stylesheet" type="text/css" href="../css/common.css">
         <link rel="stylesheet" type="text/css" href="../css/register.css">
-        <link rel="stylesheet" type="text/css" href="../css/jquery.fullPage.css">
         <!-- 引入导航栏的图标 -->
         <link rel="shortcut icon" href="../../sakura.ico" />
         <!-- 引入有关js-->
-        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-        <script type="text/javascript" src="../js/jquery.fullPage.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.js"></script>
         <script type="text/javascript" src="../js/register.js"></script>
         <meta charset="UTF-8">
         <title>register</title>
     </head>
     <body>
 
-        <div id="fullPage">
-            <div class="section">
-                <div class="slide">
-                    <div class="module">
-                        1
-                    </div>
-                </div>
-                <div class="slide">
-                    <div class="module">
-                        2
-                    </div>
-                </div>
-                <div class="slide">
-                    <div class="module">
-                        3
-                    </div>
-                </div>
-            </div>
-            </div>
-        </div>
 
+        <from id="register-from">
+            <ul>
+                <li>
+                    <lable>密码</lable>
+                    <input type="password" name="fir_pwd" id="fir_pwd">
+                    <span class="error_tip">提示信息</span>
+                </li>
+                <li>
+                    <lable>确认密码</lable>
+                    <input type="password" name="sec_pwd" id="sec-pwd">
+                    <span class="error_tip">提示信息</span>
+                </li>
+                <li>
+                    <lable>电话号码</lable>
+                    <input type="text" name="tel" id="tel">
+                    <span class="error_tip">提示信息</span>
+                </li>
+                <li>
+                    <input type="submit" value="注 册" name="" id="submit-btn">
+                </li>
+            </ul>
+        </from>
     </body>
+
 </html>

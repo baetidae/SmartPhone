@@ -1,66 +1,244 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <!-- 引入重置css -->
-        <link rel="stylesheet" type="text/css" href="static/css/reset.css"/>
-        <!-- 引入common.css -->
-        <link rel="stylesheet" type="text/css" href="static/css/common.css"/>
-        <!-- 引入fullpage.css -->
-        <link rel="stylesheet" type="text/css" href="static/css/jquery.fullPage.css"/>
-        <!-- 引入导航栏的图标 -->
-        <link rel="shortcut icon" href="sakura.ico" />
-        <!-- 引入jquery.js -->
-        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-        <!-- 引入index.js -->
-        <script src="static/js/index.js"></script>
-        <!-- 引入fullpage.js-->
-        <script src="static/js/jquery.fullPage.min.js"></script>
-        <title>
-            Sukura
-        </title>
-    </head>
-    <body>
 
-        <!-- 主体 start-->
-        <div class="container" id="fullpage">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="Shortcut Icon" href="sakura.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="static/css/index.css">
+        <link rel="stylesheet" href="static/css/jquery.fullPage.css">
+        <link rel="stylesheet" href="static/css/imageflow.css">
+        <script src="static/js/jquery.js"></script>
+        <script src="static/js/jquery-ui.js"></script>
+        <link rel="stylesheet" href="../css/jquery-ui.css">
+        <script src="static/js/index.js"></script>
+        <script src="static/js/fullpage.js"></script>
+        <script src="static/js/imageflow.js"></script>
+        <script src="static/js/jquery.coverflow.js"></script>
+        <script src="static/js/jquery.interpolate.min.js"></script>
+        <script src="static/js/jquery.touchSwipe.min.js"></script>
+        <script src="static/js/reflection.js"></script>
+        <title>Document</title>
+    </head>
+
+    <body>
+        <div id="fullpage">
             <div class="section">
-                <!-- 导航栏 start -->
-                <ul class="header">
-                    <li><img src="static/images/sukuraLogo.png"></li>
-                    <li><img src="static/images/sakuraWhite.png"></li>
-                    <li> <div class="select-div">
-                        <ul class="aboutLanguage">
-                            <li><img src="static/images/earthLogo.png"></li>
-                            <li>中文</li>
-                            <li>日本語</li>
+                <header class="header">
+                    <div class="header-left">
+                        <img src="static/image/user.svg" alt="" class="user-logo" />
+                        <img src="static/image/smartphone.svg" alt="" class="phone-logo" />
+                        <img src="static/image/earth_globe.svg" alt="" class="earth-logo" />
+                        <!-- <ul class="language">
+                            <li>
+
+                            </li>
+                            <li>Chinese</li>
+                            <li>Japanese</li>
                             <li>English</li>
+                        </ul> -->
+                    </div>
+                    <div class="header-content">
+                        <div class="content-title">
+                            <img src="static/image/codecov.svg" alt="" class="title-logo" />
+                            <p class="title-letter">SAKURA</p>
+                        </div>
+                        <p class="full-screen">FULL SCREEN</p>
+                        <p class="iphone">IPHONE</p>
+                        <div class="learn-more"></div>
+                    </div>
+                </header>
+            </div>
+            <div class="section">
+                <div class="video-page">
+                    <div class="video-left">
+                        <div class="video-title">动画视频</div>
+                        <div class="video-info"><span>哈哈哈哈哈哈哈哈哈哈哈哈哈哈我人傻了哈哈哈哈哈哈哈哈哈哈哈哈</span></div>
+                        <button class="video-play">
+                            <a>GET START</a>
+                        </button>
+                    </div>
+                    <div class="video-right">
+                        <img src="static/image/Video.png" alt="" class="video-img">
+                    </div>
+                </div>
+            </div>
+            <div class="section">
+                <div class="big-screen">
+                    <div class="phone-module">
+                        <img src="static/image/screen.png" alt="" class="phoneModule">
+                    </div>
+                    <div class="screen-info">
+                        <p class="screen-title">完美大屏幕</p>
+                        <p class="screen-detail">屏幕色彩为1670万色<br>
+                            分辨率为FHD+ 1080 x 2244 像素<br>
+                            打游戏刷剧无死角，视野更加宽广<br>
+                            带来极致的观影体验<br>
+                            触屏精准</p>
+                        <img src="static/image/appstore.png" alt="" class="appstore">
+                    </div>
+                </div>
+            </div>
+            <div class="section">
+                <div class="color-page">
+                    <p class="color-title">质感配色</p>
+                    <p class="color-info">全新磨砂质感薰衣草配色，含蓄的爱，坚定的承诺<br>
+                        你在等待爱情，我在等你</p>
+                    <div class="color-nav">
+                        <ul>
+                            <li>
+                                <img src="static/image/Cover1.svg" class="nav-img">
+                                <p class="nav-eng">Grind arenaceous</p>
+                                <p class="nav-ch">高级磨砂质感</p>
+                                <p class="nav-content">This I have produced as a scantling of Jack’s <br>
+                                    great eloquence and the force of his reasoning <br>
+                                    upon such abstruse matters</p>
+                            </li>
+                            <li><img src="static/image/Cover2.svg" class="nav-img">
+                                <p class="nav-eng">Purple</p>
+                                <p class="nav-ch">2020年流行色薰衣草紫</p>
+                                <p class="nav-content">This I have produced as a scantling of Jack’s<br>
+                                    great eloquence and the force of his reasoning <br>
+                                    upon such abstruse matters</p>
+                            </li>
+                            <li>
+                                <img src="static/image/Cover3.svg" class="nav-img">
+                                <p class="nav-eng">The glass panel</p>
+                                <p class="nav-ch">双离子交换工艺</p>
+                                <p class="nav-content">This I have produced as a scantling of Jack’s <br>
+                                    great eloquence and the force of his reasoning <br>
+                                    upon such abstruse matters</p>
+                            </li>
                         </ul>
                     </div>
-                    </li>
-                    <li class="homepage-btn"><img src="static/images/userLogoWhite.png"></li>
-                    <li class="purchase-btn">
-                        <img src="static/images/phoneLogoWhite.png">
-                    </li>
-                </ul>
-                <!-- 导航栏 end -->
+                </div>
 
             </div>
             <div class="section">
-                <h3>图二</h3>
+                <div class="voice-page">
+                    <p class="voice-title">身临其境</p>
+                    <p class="voice-info">Now in stereo.</p>
+                    <img src="static/image/screen-copy.png" alt="" class="voice-screen">
+                    <ul class="voice-nav">
+                        <li>
+                            <img src="static/image/Stereospeakersicon.svg">
+                            <p>New stereo speaker <br>
+                                system</p>
+                        </li>
+                        <li>
+                            <img src="static/image/12mpcamera.svg">
+                            <p>louder than <br>
+                                iPhone 11Pro</p>
+                        </li>
+                        <li>
+                            <img src="static/image/Earpodsicon.svg">
+                            <p>EarPods with <br>
+                                Lightning Connector</p>
+                        </li>
+                        <li>
+                            <img src="static/image/Airpodsicon.svg">
+                            <p>Introducing <br>
+                                AirPods</p>
+                        </li>
+                    </ul>
+                    <p class="voice-more">Learn more about audio on iPhone</p>
+                    <img src="static/image/Plusbutton.svg" class="voice-btn">
+                </div>
             </div>
             <div class="section">
-                <h3>图三</h3>
+                <div class="music-page">
+                    <div id="preview">
+                        <div id="preview-coverflow">
+                            <img class="cover" src="static/image/demo/attic.jpg" />
+                            <img class="cover" src="static/image/demo/aurora.jpg" />
+                            <img class="cover" src="static/image/demo/barbecue.jpg" />
+                            <img class="cover" src="static/image/demo/blackswan.jpg" />
+                            <img class="cover" src="static/image/demo/chess.jpg" />
+                            <img class="cover" src="static/image/demo/fire.jpg" />
+                            <img class="cover" src="static/image/demo/keyboard.jpg" />
+                            <img class="cover" src="static/image/demo/locomotive.jpg" />
+                            <img class="cover" src="static/image/demo/diveevo.jpg" />
+                            <img class="cover" src="static/image/demo/person.jpg" />
+                            <img class="cover" src="static/image/demo/rose.jpg" />
+                            <img class="cover" src="static/image/demo/seagull.jpg" />
+                            <img class="cover" src="static/image/demo/solarpower.jpg" />
+                        </div>
+                    </div>
+                    <p class="music-title">极 致 影 像</p>
+                    <p class="music-desTitle">无论明暗、远近、动静，随时随地<br>
+                        轻松记录每一刻
+                    </p>
+                    <p class="music-detail">采用 4800 万广角镜头+4800 万超广角镜头+1300 万潜望式长焦镜头组合<br>
+                        三颗摄像头实现 10倍混合光学变焦 配合双OIS防抖<br>
+                        最高12bit 超精图像采集技术，在手机摄影上实现多方位突破
+                    </p>
+                    <button class="buynow-btn">
+                        <a href="#">BUY NOW</a>
+                    </button>
+                </div>
             </div>
-            <div class="section">
+            <div class="section footer fp-auto-height">
+                <div class="footer-content">
+                    <div class="content-left">
+                        <div class="footer-title">
+                            <img src="static/image/codecov.svg" alt="">
+                            <p>SAKURA</p>
+                        </div>
+                        <p>Ut placerat pharetra ipsum, in dignissim dui <br>
+                            dapibus non. Suspendisse potenti. <br>
+                            Phasellus volutpat nisi quis.</p>
+                    </div>
+                    <div class="content-right">
+                        <div class="footer-item">
+                            <div class="footer-itemColor"></div>
+                            <p>ABOUT US</p>
+                            <ul>
+                                <li><a href="javascript:;">Our team</a></li>
+                                <li><a href="javascript:;">Company</a></li>
+                                <li><a href="javascript:;">Jobs</a></li>
+                                <li><a href="javascript:;">Newsletters</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-item">
+                            <div class="footer-itemColor"></div>
+                            <p>HELP CENTER</p>
+                            <ul>
+                                <li><a href="javascript:;">Documentations</a></li>
+                                <li><a href="javascript:;">Tutorials</a></li>
+                                <li><a href="javascript:;">Term of use</a></li>
+                                <li><a href="javascript:;">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-item">
+                            <div class="footer-itemColor"></div>
+                            <p>TOOLS</p>
+                            <ul>
+                                <li><a href="javascript:;">Create account</a></li>
+                                <li><a href="javascript:;">Log in</a></li>
+                                <li><a href="javascript:;">Services</a></li>
+                                <li><a href="javascript:;">Sitemap</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-item">
+                            <div class="footer-itemColor"></div>
+                            <p>GET IN TOUCH</p>
+                            <ul>
+                                <li><a href="javascript:;">Contact us</a></li>
+                                <li><a href="javascript:;">Request a demo</a></li>
+                                <li><a href="javascript:;">+84 935-088-886</a></li>
+                                <li><a href="javascript:;">k3nnyart@gmail.com</a></li>
+                            </ul>
+                        </div>
 
+                    </div>
+                </div>
+                <div class="footer-link">
+                    <p>© 2016, FallingLeaves, Inc. All Rights Reserved.</p>
+                    <p>facebook - twitter - linkedin - appstore</p>
+                </div>
             </div>
+
         </div>
-        <!-- 主体 end-->
-
-        <!-- 页尾 start -->
-        <div class="footer" id="window-footer">
-        </div>
-        <!-- 页尾 end -->
     </body>
+
 </html>

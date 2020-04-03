@@ -29,6 +29,15 @@
         <property name="suffix" value=".html"></property>
     </bean>
 
+    <!-- 文件上传的解析器 -->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <!-- 上传图片的最大尺寸 10M-->
+        <property name="maxUploadSize" value="5242880"></property>
+        <!-- 默认编码 -->
+        <property name="defaultEncoding" value="utf-8"></property>
+    </bean>
+
+
     <!--    将springmvc不能处理的请求交给tomocat-->
     <mvc:default-servlet-handler/>
     <!--    添加注解支持-->
@@ -38,5 +47,6 @@
     它会像一个检查员，对进入DispatcherServlet的URL进行筛查，如果发现是静态资源的请求，
     就将该请求转由Web应用服务器默认的Servlet处理，如果不是静态资源的请求，才由DispatcherServlet继续处理-->
     <mvc:default-servlet-handler/>
+
 
 </beans>
